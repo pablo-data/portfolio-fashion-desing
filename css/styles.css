@@ -158,6 +158,10 @@ button:hover {
 /*--------------------------------------------*/
 @media (max-width: 1125px){
 
+    .cursor {
+        display: none;
+    }
+
     .switch {
         height: 30px;
         width: 70px;
@@ -180,6 +184,7 @@ button:hover {
 
 @media (max-width: 799px){
 
+    
     .title-anime {
         font-size: 4em;
     }
